@@ -282,3 +282,7 @@ tr {
       font-style: italic;
       text-shadow: #00000 0px 1px 0px;
     }
+footer {
+  font-size: 11px;
+}
+
